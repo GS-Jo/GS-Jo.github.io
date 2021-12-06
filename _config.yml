@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "GS-Jo's PortFolio"
+title                    : "GS-Jo's Portfolio Page"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "조경수"
@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "조경수입니다."
+  name             : "조경수"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "The future is **Now**."
+  bio              : "데이터꿈나무"
   location         : "서울시 성동구"
   email            : "cks066127@gmail.com"
   links:
