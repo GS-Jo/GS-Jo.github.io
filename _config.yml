@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "GS-Jo's PortFolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "조경수입니다."
+name                     : "조경수"
 description              : "The future is now"
 url                      : "https://GS-Jo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "조경수입니다."
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "The future is **Now**."
+  location         : "서울시 성동구"
+  email            : "cks066127@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
